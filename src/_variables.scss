@@ -1,0 +1,20 @@
+$white:         #FFF;
+$red:           #E65C43;
+$gray:          #666;
+$graybar:       #F5F6F6;
+$footer:        #30353D;
+$body-background: url('../dist/images/bg.gif');
+$body-font:       'Roboto', sans-serif;
+$logo:            url('../dist/images/logo.png');
+$vconvert:        url('../dist/images/vconvert.png');
+$vprospect:        url('../dist/images/vprospect.png');
+
+$heading-colors: $red, $white, $gray;
+
+
+$divs:(
+    one: url('../images/social-media1.png'),
+    two: url('../images/social-media2.png'),
+    three:url('../images/social-media3.png'),
+    four: url('../images/social-media4.png')
+);
