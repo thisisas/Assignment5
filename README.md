@@ -8,4 +8,4 @@
 #### This webpage contains the following information about Vecta Corp:  
 * Home
 * Featured Products
-* Client Testimonials
+* Testimonials
